@@ -1,5 +1,5 @@
-#FROM python:2-onbuild
-#CMD [ "python", "./application.py" ]
+FROM python:2-onbuild
+CMD [ "python", "./application.py" ]
 #FROM ubuntu:14.04
 
 #RUN apt-get update && apt-get install -y build-essential nginx python3.4 python3.4-dev
