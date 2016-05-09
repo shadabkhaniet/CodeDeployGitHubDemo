@@ -94,4 +94,4 @@ def init_db():
 
 if __name__ == '__main__':
     init_db()
-    application.run(host='0.0.0.0', port=80, threaded=True)
+    application.run(host='0.0.0.0', threaded=True)
