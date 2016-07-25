@@ -1,0 +1,19 @@
+<html> 
+<head> 
+<title>Amazon ECS Sample App</title> 
+<style>body {margin-top: 40px; background-color: #333;} </style> 
+</head>
+<body> 
+<div style=color:white;text-align:center> 
+<h1>Docker, Jenkins, Aws ECS CI/CD Demo</h1> 
+  <p>ECS</p>
+  <p>Docker</p>
+  <p>Github Repository</p>
+  <p>Jenkins Server</p>
+  <p>Docker Build and Publish plugin</p>
+  <p>dockerhub plugin</p>
+  <p>Github plugin</p>
+  <p>AWS ELB test test test</p>
+</div>
+</body>
+</html>
